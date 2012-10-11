@@ -1,0 +1,113 @@
+50
+70
+1111111111111111111111111111111111111111111111111111111111111111111111
+1                                 2             2       2            1
+1                       2         2        2                         1
+1                    2            2             2                    1
+1                    2            2                     111          1
+1                    2          2        2      2         1          1
+1                                            2            1   1      1
+1        2  2  2  2            2        2          2      1   1      1
+1      !                       2                          1   1      1
+1111111 111111111111111111111111111 11111111111111111111111        2 1
+1     1 1                                           1    1           1
+1     1 1                                           1    1    2      1
+1     1 1                                           1    1           1
+1     1 1                                           1    12          1
+1     1 1                                           1    1           1
+1     1 1                                           1    1           1
+1                ! !    ! !     !          !        1    1       2   1
+1           ! !   2      2       5555555555       2 1    1    1111   1
+1   111 1    2                 ! 1         5        1    1           1
+1   111 1                       21          5       1    1         ! 1
+1   111 1                        1          1       111  1          21
+12  111 1                        1          1         1  1      2    1
+1   111 1   ! !                  1          1  2  2   1  1       2   1
+1   111 1    2     !          !  1          1         1  1           1
+1   111 1    22     1111111111   1          1       2 1  12          1
+12  111 1                    2   1          1       ! 1  1           1
+1   111 1! !        2            1          1       ! 1  1           1
+1   111 1 2                  2  21          12222222 21  1    !   2  1
+1   111 1 22  ! !   2            1          1         1  1     1111  1
+12  111 1      2             2   1          1         1  1           1
+1    11 1           2            1          1       111  1        !  1
+1                            2  21          1       1    1         221
+1        !          2            1          1   2   111  1           1
+1111111 1 11111111111        2   1          1         1  1           1
+1     2 111                      1          1         1  1    2   !  1
+1                            2  21          1         1  1    1111   1
+1     2 2                        1          1         1  1           1
+1                            2   1          12222222!21   1          1
+1     2 2                    22  1          1         1    1         1
+1                            2   1          1         1     1        1
+1     2 2                        1          1       111      1       1
+1                            2  21          1       1         1      1
+1     2 2                        1          1  2    1111      1      1
+1                            2   1          1       !   1111111      1
+1     2 22   2222                1          1       !               41
+1                            2  21          1      22              421
+1111111  11111  11111111111111   1          1       !             4221
+1                                1          1       !         !  42221
+1                                1          12222222!22222222222222221
+1111111111111111111111111111111111111111111111111111111111111111111111
+Player 47 3 Right
+ItemEnemy 3 3 Right Health
+ItemEnemy 3 4 Right Rocket
+ItemEnemy 14 36 Left Rocket
+ItemEnemy 26 65 Right Shotgun
+ItemEnemy 31 7 Right Rocket
+ItemEnemy 46 63 Left Machinegun
+ItemEnemy 46 64 Left Health
+House 21 13 Right
+House 25 10 Right
+House 33 63 Left
+Kyoro 14 18 Left
+Kyoro 14 25 Left
+Kyoro 15 13 Left
+Kyoro 18 68 Left
+Kyoro 26 15 Left
+Kyoro 29 68 Left
+Kyoro 30 10 Left
+Kyoro 30 12 Left
+Kyoro 30 14 Left
+Kyoro 30 16 Left
+Kyoro 30 18 Left
+Kyoro 44 12 Left
+Kyoro 44 18 Left
+Kyoro 44 20 Left
+Kyoro 47 15 Left
+Kyoro 47 18 Left
+Kyoro 47 30 Left
+Kyoro 47 31 Left
+Mushroom 12 58 Right Invisible
+Mushroom 17 8 Left Invisible
+Mushroom 23 58 Right Invisible
+Mushroom 36 58 Left Invisible
+Mushroom 37 59 Left Invisible
+Mushroom 38 60 Left Invisible
+Mushroom 39 61 Left Invisible
+Mushroom 40 62 Left Invisible
+Mushroom 43 68 Left Invisible
+Mushroom 44 67 Left Invisible
+Mushroom 45 66 Left Invisible
+Mushroom 46 65 Left Invisible
+Babo 25 46 Left
+Babo 25 48 Left
+Babo 25 49 Left
+Babo 25 50 Left
+Babo 35 46 Left
+Babo 35 48 Left
+Babo 35 49 Left
+Babo 35 50 Left
+Babo 45 46 Left
+Babo 45 48 Left
+Babo 45 49 Left
+Babo 45 50 Left
+Baaka 13 35 Left
+Baaka 44 60 Left
+Nurunuru 4 27 Right
+Nurunuru 4 15 Right
+Byaa 4 51 Right
+Byaa 4 33 Right
+Skater 15 25 Right
+ExitDoor 7 3

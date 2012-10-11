@@ -1,0 +1,353 @@
+100
+100
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+1                                                     111111111111                                 1
+1                                               111111            1111111                          1
+1                                          11111                         1111                      1
+1                                     11111                                  11                    1
+1                                 1111                                         1                   1
+1                              111                                              11                 1
+1                          1111                     !!!!        !!!!!!!!!!        11               1
+1                       111                        !    !      !          !         1              1
+1                     11                            !!!!        !!!!!!!!!!           1             1
+1                   11                                                                1            1
+1                 11                                                                   1           1
+1                1                                                                      1          1
+1              11                                        111111                          1         1
+1             1                                     11111      111111    !               1         1
+1           11                                 11111                 1111                 1        1
+1          1                               1111                          11                1       1
+1         1                            1111                                11              1       1
+1        1                         1111                                      1              1      1
+1       1                       111                     !      !              1             1      1
+1      1                      11                                               1            1      1
+1      1                    11                          !      !               1             1     1
+1     1                   11                  ! !                               1            1     1
+1    1                  11                     o        !      !                1            1     1
+1    1                11                                 111111                 1             1    1
+1   1                1                        !       111      111               1            1    1
+1   1              11                     !        111            11 !           1            1    1
+1  1              1                            1111                 1            1             1   1
+1  1             1                         1111                      1            1            1   1
+1  1            1               !    !  111                          1            1            1   1
+1 1             1                     11                     ! !      1           1            1   1
+1 1            1                    11                        o       1   ! !      1! ! o       1  1
+1 1            1             !   111     ! !       ! !    ! !         1    o       1 o       o  1  1
+1 1          ! 1              111   ! !   o         o      o           1        o  1            1  1
+1 1   ! !     1              1       o         ! !  !          ! !     1           1      ! !   1  1
+11     o      1        ! !! 1           ! !     o               o ! !  1     ! !    1      o    1  1
+11            1    ! !  o  1       ! !   o               111       o    1 o   o     1  o         1 1
+11       ! !  1     o      1    ! ! o            !   1111   1           1           1            1 1
+11        o   1           1  ! ! o   ! !    !     111        1  ! !     1           1      o     1 1
+11  ! !      1            1   o       o      11111           1   o      1   ! !     1         o  1 1
+11   o       1            1                111               1           1   o    o  1  ! !      1 1
+11   ! !  ! !1           1  ! !  ! !    111         o         1      ! ! 1           1   o       1 1
+1     o ! !o 1 ! !o   o  1 ! o    o   11     o         o      1       o  1           1         o  11
+1! !     o   1  o        1o          1                        1  ! !     1 !         1            11
+1 o! !! !  ! 1      o    1     ! !  1      !     !!     !     1   o       1      o   1            11
+1   o  o    o1           1      o   1       11111  11111   o   1          1o         1 o          11
+1        ! ! 1     o ! !o1 !! !     1                          1          1 ! !       1     o  ! !11
+1 ! !! !  o   1       o   1  o! !    1  o                      1 ! !      1  o     ! !1         o 11
+1  o  o! !   o1 !o  ! !   1! ! o      1 !    ! !    !o!    !   1  o  ! !  1         o 1  ! !      11
+1 !     o ! ! 1o     o    1 o! ! ! !     1111   1111   1111   1       o  1            1   o       11
+11         o  1           1   o   o            o              1 !        1  o         1          1 1
+11 !! !       1           1 !      ! !       o               1 o   ! !   1      o     1          1 1
+11o  o        1 ! o        1        o  o          o         1       o    1            1      o   1 1
+11      ! !    1           1     ! !                      11    ! !     1! !         1           1 1
+11 !     o     1      ! !  1      o        o         11111       o      1 o  ! !     1           1 1
+1 1  ! !       1       o   1                      111                  1      o  ! ! 1   o     ! 1 1
+1 1   o        1    ! !     1            !    1111                    1           o  1          1  1
+1 1             1    o       1            1111      ! !      ! !      1    ! !       1! !       1  1
+1 1 !     ! !   1             11     11111           o        o      1      o       1  o        1  1
+1  1   ! ! o    1          o    11111                              11               1           1  1
+1  1    o       1  ! !                          ! !               1        o    o   1      o    1  1
+1  1             1  o                            o              11                 1  o        1   1
+1  1 !           1                                    !       11              o    1           1   1
+1   1             1        ! !                              11                     1   ! !     1   1
+1   1   ! !       1         o   ! !                    11111                      1     o     1    1
+1   1 !  o         1             o                  111                          1        o   1    1
+1    1              1            !              1111                            1            1     1
+1    1 !             1                      1111                               1             1     1
+1     1 !             11               11111                                  1             1      1
+1      1                111       11111                            !         1             1       1
+1      1                   1111111                                ! !       1              1       1
+1       1                                                      !  ! !     11              1        1
+1       1 !                                                   ! !  !    11               1         1
+1        1 !       1 ! ! 1 111  11    1       1          !    ! !      1                 1         1
+1         1 !      11 ! 11  1  1  1   1  ! !  1         ! !    !     11                 1          1
+1          1       1 1 1 1  1  1      1   1   1         ! !        11                  1           1
+1          1 !     1  1  1  1   11     1  1  1           !   !   11                   1            1
+1           1 !    1     1  1     1    1 1 1 1                111                    1             1
+1            1 !   1     1  1  1  1    1 1 1 1        !     11                     11              1
+1             1    1     1 111  11  1   1   1          11111                      1                1
+1             1 !                                   111                          1                 1
+1              1  !                             1111                            1                  1
+1               11  !                       1111                              11                   1
+1                 11                   11111                                11                     1
+1                   1111          11111                                    1                       1
+1                       1111111111                                       11                        1
+1                                                                      11                          1
+1                                                                    11                            1
+1                                                                 111                              1
+1                                                               11                                 1
+1                                                           1111                                   1
+1                                                        111                                       1
+1                                                    1111                                          1
+1                                                1111                                              1
+1                                           11111                                                  1
+1                                      11111                                                       1
+1                              11111111                                                            1
+1                      11111111                                                                    1
+1            1111111111                                                                            1
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Player 97 7 Right
+ItemEnemy 60 1 Right Health
+ItemEnemy 61 1 Right Health
+ItemEnemy 97 10 Left Flame
+ItemEnemy 94 22 Right Rocket
+ItemEnemy 95 23 Right Rocket
+ItemEnemy 95 24 Right Rocket
+Kyoro 77 78 Left
+Kyoro 78 77 Left
+Kyoro 79 76 Left
+Kyoro 80 75 Left
+Kyoro 81 74 Left
+Kyoro 82 73 Left
+Kyoro 83 72 Left
+Kyoro 84 71 Left
+Kyoro 85 70 Left
+Babo 77 78 Left
+Babo 78 77 Left
+Babo 79 76 Left
+Babo 80 75 Left
+Babo 81 74 Left
+Babo 82 73 Left
+Babo 83 72 Left
+Babo 84 71 Left
+Babo 85 70 Left
+Worm 79 80 Left
+Worm 79 79 Left
+Worm 79 78 Left
+Worm 79 77 Left
+Worm 79 76 Left
+Worm 79 75 Left
+Worm 79 74 Left
+Worm 79 73 Left
+Worm 79 72 Left
+Worm 79 71 Left
+Worm 79 70 Left
+Baaka 70 88 Left
+Baaka 71 87 Left
+Ç±Ç±Ç‹Ç≈èPóàÅI
+House 47 89 Right
+House 39 88 Right
+Kyoro 62 88 Right
+Kyoro 56 87 Right
+Kyoro 54 96 Right
+Kyoro 45 96 Right
+Kyoro 44 86 Right
+Kyoro 33 91 Right
+Kyoro 30 85 Right
+ItemEnemy 13 70 Right Flame
+Worm 8 72 Right
+Worm 8 70 Right
+Worm 8 69 Right
+Worm 8 67 Right
+Worm 8 54 Right
+Worm 8 53 Right
+Robot 5 58 Right
+Mushroom 14 51 Right Invisible
+Mushroom 14 50 Right Invisible
+Mushroom 14 49 Right Invisible
+Mushroom 14 48 Right Invisible
+Mushroom 14 47 Right Invisible
+Mushroom 15 46 Right Invisible
+Mushroom 15 45 Right Invisible
+Mushroom 15 44 Right Invisible
+Mushroom 15 43 Right Invisible
+Mushroom 16 42 Right Invisible
+Mushroom 16 41 Right Invisible
+Mushroom 16 40 Right Invisible
+Mushroom 16 39 Right Invisible
+Mushroom 17 38 Right Invisible
+Mushroom 17 37 Right Invisible
+Mushroom 17 36 Right Invisible
+Mushroom 17 35 Right Invisible
+Mushroom 18 34 Right Invisible
+Mushroom 18 33 Right Invisible
+Mushroom 18 32 Right Invisible
+Mushroom 19 31 Right Invisible
+Mushroom 19 30 Right Invisible
+Mushroom 20 29 Right Invisible
+Mushroom 20 28 Right Invisible
+Mushroom 21 27 Right Invisible
+Mushroom 21 26 Right Invisible
+Mushroom 22 25 Right Invisible
+Mushroom 22 24 Right Invisible
+Mushroom 23 23 Right Invisible
+Mushroom 23 22 Right Invisible
+ItemEnemy 32 14 Right Machinegun
+ItemEnemy 32 14 Right Machinegun
+ItemEnemy 32 14 Right Machinegun
+ItemEnemy 32 14 Right Machinegun
+House 36 10 Right
+Kyoro 33 7 Right
+Kyoro 38 5 Right
+Worm 41 11 Right
+Worm 41 6 Right
+Worm 42 9 Right
+Worm 43 2 Right
+Worm 44 12 Right
+Worm 44 7 Right
+Worm 44 4 Right
+Worm 46 10 Right
+Worm 47 6 Right
+Worm 47 3 Right
+Worm 48 8 Right
+Worm 49 11 Right
+Worm 49 1 Right
+Worm 51 5 Right
+Worm 51 2 Right
+Worm 53 9 Right
+Worm 54 2 Right
+Worm 55 6 Right
+Worm 58 11 Right
+Worm 58 3 Right
+Worm 59 8 Right
+Worm 62 4 Right
+Worm 64 8 Right
+Worm 65 5 Right
+Worm 67 6 Right
+Worm 68 7 Right
+Worm 72 9 Right
+Worm 73 10 Right
+Worm 74 11 Right
+Worm 76 12 Right
+Worm 77 13 Right
+Worm 78 14 Right
+Worm 80 15 Right
+Worm 81 16 Right
+Worm 82 18 Right
+Kyoro 83 29 Left
+Baaka 82 29 Left
+Skater 82 29 Left
+Starman 82 29 Left
+BlackPlayer 72 20 Right Rocket
+Worm 74 21 Right
+House 74 21 Right
+Worm 74 23 Right
+Kyoro 72 24 Right
+House 77 40 Left
+ItemEnemy 73 42 Left Health
+House 77 44 Left
+BlackPlayer 77 57 Left Shotgun
+Babo 74 56 Left
+Kyoro 75 63 Left
+Babo 72 62 Left
+Kyoro 70 67 Left
+Nurunuru 63 68 Left
+Byaa 63 68 Left
+House 56 76 Right
+House 54 82 Right
+House 30 75 Right
+Kyoro 53 78 Right
+Kyoro 52 74 Right
+Kyoro 46 84 Right
+Kyoro 45 77 Right
+Kyoro 42 74 Right
+Kyoro 38 77 Right
+Kyoro 34 78 Right
+House 25 68 Right
+ItemEnemy 22 60 Right Rocket
+Starman 21 60 Right
+Starman 21 59 Right
+Baaka 24 48 Right
+Kyoro 21 47 Right
+Kyoro 26 44 Right
+Worm 29 39 Right
+Baaka 29 33 Right
+Worm 32 32 Right
+Worm 32 31 Right
+Worm 32 30 Right
+Worm 35 27 Right
+Kyoro 34 24 Right
+Kyoro 35 20 Right
+Kyoro 41 16 Right
+Kyoro 45 22 Right
+Kyoro 47 21 Right
+Kyoro 47 15 Right
+Kyoro 51 15 Right
+Kyoro 53 23 Right
+Kyoro 55 21 Right
+Kyoro 59 20 Right
+Kyoro 62 28 Right
+ItemEnemy 68 28 Left Rocket
+ItemEnemy 68 29 Left Rocket
+Kyoro 68 30 Left
+Starman 67 30 Left
+Kyoro 63 33 Left
+Baaka 66 35 Left
+Starman 65 40 Left
+Babo 64 44 Left
+Babo 64 45 Left
+Babo 64 46 Left
+Babo 64 47 Left
+Kyoro 59 49 Left
+Kyoro 56 53 Left
+Kyoro 62 56 Left
+Baaka 61 57 Left
+Kyoro 56 62 Left
+House 50 68 Right
+House 47 70 Right
+House 42 66 Right
+House 31 59 Right
+Kyoro 52 65 Right
+Kyoro 49 63 Right
+Kyoro 46 66 Right
+Kyoro 40 70 Right
+Kyoro 37 65 Right
+Kyoro 34 67 Right
+Kyoro 33 64 Right
+Kyoro 29 62 Right
+Starman 34 54 Right
+Kyoro 31 52 Right
+BlackPlayer 36 51 Right Rocket
+Baaka 35 50 Right
+Kyoro 33 48 Right
+Worm 38 47 Right
+Worm 38 48 Right
+Kyoro 31 42 Right
+Kyoro 34 41 Right
+Starman 38 40 Right
+Kyoro 37 38 Right
+Kyoro 32 37 Right
+Kyoro 35 36 Right
+Kyoro 36 33 Right
+Kyoro 37 30 Right
+Kyoro 40 34 Right
+Kyoro 40 29 Right
+Kyoro 41 26 Right
+Kyoro 45 26 Right
+Worm 44 32 Right
+Worm 46 29 Right
+Worm 47 31 Right
+Worm 48 28 Right
+Worm 49 34 Right
+Worm 49 30 Right
+Worm 51 27 Right
+Kyoro 50 36 Left
+Kyoro 52 34 Left
+Starman 56 34 Left
+Babo 56 35 Left
+Babo 56 36 Left
+Babo 56 37 Left
+Kyoro 55 43 Left
+ItemEnemy 47 56 Right Health
+ItemEnemy 47 57 Right Health
+ItemEnemy 47 42 Right Rocket
+ItemEnemy 47 43 Right Rocket
+ItemEnemy 43 53 Right Machinegun
+ItemEnemy 43 54 Right Machinegun
+ItemEnemy 43 46 Right Shotgun
+ItemEnemy 43 47 Right Shotgun
+ExitDoor 47 49

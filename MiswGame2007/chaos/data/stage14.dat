@@ -1,0 +1,120 @@
+20
+240
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+89caaaaaaaaacccccccaaacccaaacacacaccccccaaaaaaaaaaacacabcabcbabbbbaccccccccccaaaaaaabcaaabbbbbbaaaaaaaaaaaaaaaaaaacccaaaaaaaaaaaaaaaccccccccbbccccccccbbbbaaaaaccacaaaaaaaabcabcaaaaaacccccbcaacbbbbcacaccaaacbbbcaaaacccccccccccaaaaaaaaaaaac99
+9c                                                                                   ccccccccccccc                                           c                                                                                                a9
+9c                                                                                    aaaaaaaaaaa                                            c                                                                                                c9
+9c        !                                                                            bbbbbbbbb                                    !        c                                                                                       !        c9
+9aaaaaaaaaa                                                                              cccccc                                      aaaaaaaaa                                                                            b   b   b   bbbbbbbbb9
+9a         c                                                                              aaaaa                                 bbbbbb                                                                                b                       b9
+9b                                                                                          aaa                                                                                                                                               b9
+9c              cca                                                                          cc                      a   bb  aa                                                                                                               a9
+9c                                                                                            c                                                                                                                  b                            a9
+9c                                                                                                                                                                                                                                            a9
+9a                    aaa                                                                                      !  !                                                      !  !                                                                 a9
+9a                                                                                                            bbbbbb                                                    aaaaaa                                                                a9
+9a                                                          !   !  !                                        ccccccccc                                                   ccccccc                                 b                             a9
+9c                                                         bbbbbbbbbb                                      aaaaaaaaaaa                                                 bbbaaaaaba                                                             c9
+9c                          ccc                          aaaaaaaaaaaaaa                                    cccccccccccc                          cc                   aaaaaaaaaaa                                                             c9
+9a                         ccccc                       ccccccccccccccccc                                   bbbbbbbbbbbb                         aaaa                  ccccccccccccc                                                           c9
+9a                        ccccccc                     aaaaaaaaaaaaaaaaaaaaa                            aaaaaaaaaaaaaaaa                       ccccccc                 ccccccccccccccc                          b                       !      a9
+9aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc9
+999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+Player 16 2 Right
+ItemEnemy 16 23 Right Machinegun
+ItemEnemy 16 44 Right Machinegun
+ItemEnemy 16 85 Right Rocket
+ItemEnemy 16 91 Left Rocket
+ItemEnemy 16 132 Left Machinegun
+ItemEnemy 16 156 Left Machinegun
+ItemEnemy 16 157 Left Rocket
+ItemEnemy 16 194 Left Shotgun
+ItemEnemy 16 223 Left Rocket
+ItemEnemy 16 236 Left Machinegun
+ItemEnemy 3 5 Right Health
+ItemEnemy 3 4 Left Flame
+ItemEnemy 3 138 Left Shotgun
+ItemEnemy 3 139 Right Shotgun
+ItemEnemy 3 234 Right Flame
+ItemEnemy 3 235 Left Health
+Baaka 15 42 Left
+Baaka 15 88 Right
+Baaka 15 95 Left
+Baaka 15 130 Left
+Baaka 15 157 Right
+Baaka 15 195 Right
+Baaka 15 187 Left
+Baaka 15 220 Left
+Robot 10 130 Left
+Robot 10 156 Left
+Robot 10 192 Left
+Robot 10 219 Left
+Babo 15 44 Left
+Babo 15 93 Left
+Babo 15 130 Left
+Babo 15 160 Right
+Babo 15 190 Left
+Babo 15 220 Right
+House 12 62 Left
+House 12 65 Left
+House 10 113 Left
+House 10 171 Left
+Mushroom 17 13 Left Visible
+Mushroom 17 13 Left Invisible
+Mushroom 17 15 Left Invisible
+Mushroom 17 17 Left Invisible
+Mushroom 17 20 Left Invisible
+Mushroom 17 38 Left Invisible
+Mushroom 17 40 Left Invisible
+Mushroom 17 44 Left Invisible
+Mushroom 17 48 Left Invisible
+Mushroom 17 52 Left Invisible
+Mushroom 17 78 Left Invisible
+Mushroom 17 80 Left Invisible
+Mushroom 17 81 Left Invisible
+Mushroom 17 81 Left Invisible
+Mushroom 17 85 Left Invisible
+Mushroom 17 90 Left Invisible
+Mushroom 17 91 Left Invisible
+Mushroom 17 95 Left Invisible
+Mushroom 17 100 Left Invisible
+Mushroom 17 122 Left Invisible 
+Mushroom 17 125 Left Invisible
+Mushroom 17 130 Left Invisible
+Mushroom 17 139 Left Invisible
+Mushroom 17 151 Left Invisible
+Mushroom 17 153 Left Invisible
+Mushroom 17 157 Left Invisible
+Mushroom 17 181 Left Invisible
+Mushroom 17 183 Left Invisible
+Mushroom 17 193 Left Invisible
+Mushroom 17 200 Left Invisible
+Mushroom 17 210 Left Invisible
+Mushroom 17 213 Left Invisible
+Mushroom 17 217 Left Invisible
+Mushroom 17 225 Left Invisible
+Mushroom 16 73 Left Invisible
+Mushroom 16 105 Left Invisible
+Mushroom 16 207 Left Invisible
+Mushroom 15 56 Left Invisible
+Mushroom 15 144 Left Invisible
+Mushroom 14 29 Left Invisible
+Mushroom 14 69 Left Invisible
+Mushroom 14 146 Left Invisible
+Mushroom 13 107 Left Invisible
+Mushroom 13 167 Left Invisible
+Mushroom 13 175 Left Invisible
+Mushroom 12 109 Left Invisible
+Mushroom 12 208 Left Invisible
+Mushroom 10 23 Left Invisible
+Mushroom 8 214 Left Invisible
+Mushroom 7 17 Left Invisible
+Mushroom 7 122 Left Invisible
+Mushroom 7 126 Left Invisible
+Mushroom 5 11 Left Invisible
+Mushroom 5 132 Left Invisible
+Mushroom 5 214 Left Invisible
+Mushroom 4 218 Left Invisible
+Mushroom 4 222 Left Invisible
+Mushroom 4 226 Left Invisible
+ExitDoor 16 236

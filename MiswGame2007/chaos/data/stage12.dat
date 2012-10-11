@@ -1,0 +1,150 @@
+60
+49
+8888888888888888888888888888888888888888888888888
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8                                               8
+8!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!8
+8              !  !                     !  !    8
+8     !  !      99  !  !  !  ! !  !      99     8
+8      99      99    99    99   99      99     88
+8      99    999      99  99    99      99      9
+88     999  99      88999 99    99    88999     9
+888     99999          99999   99        99     8
+8888    99    998         99   99         99    8
+9       999  99     99!   9    9988        99   9
+9        99999       9 9999   99      !   999   9
+9 !  !    999        9999    999       9999     9
+9  99     9999    99999      99       999      88
+9 99       99999 9999         9999  99999     888
+999        999999999            9999999      8888
+9   !   !     9999999999   99999999999          9
+9    999         9999999999999999               9
+9                 99999999999999          !     9
+9                 99999999999999           888888
+8   !             99999999999999   !   !     8888
+8888  !           99999999999999    999       888
+888888  !           999998889999                8
+88888888  !        99988899999999     !   !     9
+8998888888          98899999999999     999      9
+99           !     889999999999999              9
+9             88888899999999999999             88
+9     !    !        9999999999999             888
+9   !  9999        9999999999999             8888
+9 99               9999999999998   !    !   88888
+999               99999999999998    9999        8
+9    !   !       999889999999998                8
+9     999        9999888999998899               9
+98               9999998899888999           !   9
+998               99999998889999  !    !     9999
+9888              99999999988899   8888        99
+9                 99999999999989 888            9
+9       !         9999999999999888        !   ! 9
+9     99          99999999999989           999  9
+9   999           99999999998899  !   !         9
+999999  !    !    99999999888999   888   !      8
+8        9999     99999998899999     9999       8
+8                9999999889999999               8
+8                9999988899999999               9
+8                9999989999999899               9
+8               999998899999998999              8
+8              99999989999999988999             8
+8             9999999899999999989999            8
+8888888888888888888888888888888888888888888888888
+Player 57 46 Left
+ItemEnemy 50 40 Right Flame
+ItemEnemy 28 47 Left Shotgun
+ItemEnemy 21 40 Left Machinegun
+ItemEnemy 20 25 Left Machinegun
+ItemEnemy 26 26 Right Rocket
+ItemEnemy 49 2 Right Health
+Byaa 9 25 Right
+Nurunuru 9 15 Right
+Nurunuru 9 30 Left
+Nurunuru 9 45 Left
+Baaka 34 15 Left
+Baaka 27 44 Left
+Babo 23 15 Right
+Babo 25 22 Right
+Babo 23 37 Left
+Babo 23 15 Left
+Babo 25 28 Right
+Babo 23 37 Right
+Kyoro 47 44 Left
+Kyoro 43 47 Left
+Kyoro 43 46 Left
+Kyoro 39 38 Left
+Kyoro 35 16 Right
+Kyoro 35 16 Left
+kyoro 28 45 Left
+House 49 36 Left
+House 44 38 Right
+House 39 36 Left
+House 30 37 Right
+House 28 44 Left
+House 20 23 Right
+House 26 25 Right
+House 14 7 Right
+House 14 22 Right
+House 14 28 Right
+House 14 33 Right
+House 13 16 Right
+House 13 41 Right
+Mushroom 58 3 Right Invisible
+Mushroom 58 4 Right Invisible
+Mushroom 58 5 Right Invisible
+Mushroom 58 3 Right Invisible
+Mushroom 58 5 Right Invisible
+Mushroom 58 7 Right Invisible
+Mushroom 58 8 Right Invisible
+Mushroom 58 10 Right Invisible
+Mushroom 58 12 Right Invisible
+Mushroom 58 10 Left Invisible
+Mushroom 58 9 Left Invisible
+Mushroom 58 7 Left Invisible
+Mushroom 58 6 Left Invisible
+Mushroom 58 6 Left Invisible
+Mushroom 58 8 Left Invisible
+Mushroom 58 4 Left Visible
+Mushroom 58 5 Left Visible
+Mushroom 58 7 Left Visible
+Mushroom 58 10 Right Visible
+Mushroom 58 3 Right Visible
+Mushroom 58 8 Left Visible
+Mushroom 47 32 Right Invisible
+Mushroom 46 34 Right Invisible
+Mushroom 57 14 Left Invisible
+Mushroom 56 15 Left Invisible
+Mushroom 55 16 Left Invisible
+Mushroom 42 1 Right Invisible
+Mushroom 43 2 Right Invisible
+Mushroom 44 3 Right Invisible
+Mushroom 26 20 Right Invisible
+Mushroom 26 21 Right Invisible
+Mushroom 26 30 Left Invisible
+Mushroom 26 31 Left Invisible
+Mushroom 24 32 Right Invisible
+Mushroom 24 37 Left Invisible
+Mushroom 24 15 Right Invisible
+Mushroom 24 17 Left Invisible
+Mushroom 21 12 Right Invisible
+Mushroom 18 11 Right Invisible
+Mushroom 18 25 Left Invisible
+Mushroom 20 34 Right Invisible
+Mushroom 18 39 Right Invisible
+Mushroom 25 45 Left Invisible
+Mushroom 24 46 Left Invisible
+Mushroom 23 47 Left Invisible
+Mushroom 19 3 Right Invisible
+Mushroom 18 2 Right Invisible
+Mushroom 17 1 Right Invisible
+ExitDoor 57 12

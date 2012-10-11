@@ -1,0 +1,45 @@
+25
+50
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+g                                                g
+g      !                                  !      g
+gggggggg                                  gggggggg
+g         g                            g         g
+g                                                g
+g                                                g
+g      !                                  !      g
+ggggggg    g         g      g         g    ggggggg
+g              g                 g               g
+g                                                g
+g                                                g
+g      !                                  !      g
+ggggggg    g   g                 g    g    ggggggg
+g                  g         g                   g
+g                      ggg                       g
+g                                                g
+g     !  !    g    !        !    g    !  !       g
+g      gg          !        !          gg        g
+g     gggg          gggggggg          gggg       g
+g    gggggg                          gggggg      g
+g                                                g
+g                                                g
+g                                                g
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+Player 22 24 Right
+BlackPlayer 21 2 Right Pistol
+BlackPlayer 21 13 Left Pistol
+BlackPlayer 21 45 Left Pistol
+BlackPlayer 21 39 Right Pistol
+Norio 10 19 Right
+Byaa 4 20 Right
+Byaa 4 30 Right
+Starman 16 22 Right
+BlackPlayer 15 7 Left Shotgun
+ItemEnemy 15 39 Right Health
+BlackPlayer 11 2 Right Rocket
+BlackPlayer 11 47 Left Machinegun
+BlackPlayer 6 2 Right Rocket
+BlackPlayer 6 47 Left Machinegun
+BlackPlayer 1 2 Right Rocket
+BlackPlayer 1 47 Left Machinegun
+ExitDoor 22 24

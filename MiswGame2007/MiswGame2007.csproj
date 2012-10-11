@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{555DBEC5-83D7-475D-97BB-7F34DF79ED2D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MiswGame2007</RootNamespace>
+    <AssemblyName>chaos</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chaos\data\stage01.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage02.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage03.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage04.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage05.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage06.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage07.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage08.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage09.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage10.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage11.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage12.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage13.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage14.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage15.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage16.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage17.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage18.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage19.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage20.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage21.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage22.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage23.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\data\stage25.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="settings.cfg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="chaos\images\black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\mafia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\penguin.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\rain.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\skater.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\aurora.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\baaka.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\babo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\back1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\back2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\back3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\back4.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\back5.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\bigexp.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\block.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\byaa.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\debris.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\ebullet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\emachine.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\father.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\hanabi1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\hanabi2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\hboss.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\house.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\hud.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\ienemy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\item.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\itemexp.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\kyoro.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\mr.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\mrboss1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\mrboss2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\mrboss3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\msg.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\norio.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\number.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\nurunuru.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\oyaji.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\pbexp.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\pbullet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\player.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\robot.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\staff.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\starman.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\thunder.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\images\title.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="chaos\data\stage24.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\boss1.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\boss2.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\clear.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\ending.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\stage1.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\stage2.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\stage3.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\stage4.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\stage5.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="chaos\musics\title.ogg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="chaos\images\worm.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\atfield.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\baaka.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\byaa.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\close.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\damage.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\duely.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\explode.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\explode2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\flame.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\fvoice.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\glass.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\hammer.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\hi.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\hi1.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\hi2.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\horay.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\impact.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\kue.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\laser.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\mr.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\mvoice.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\nurunuru.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\okvoice.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\pistol.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\rjump.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\rocket.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\rvoice.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\shotgun.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\shuhu.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\svoice.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\tvoice.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\warp.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chaos\sounds\weapon.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="libpng12.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ogg.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SDL.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SDL_image.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SDL_mixer.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="vorbisfile.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zlib1.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\AtField.cs" />
+    <Compile Include="src\AudioDevice.cs" />
+    <Compile Include="src\Baaka.cs" />
+    <Compile Include="src\BaakaBullet.cs" />
+    <Compile Include="src\BaakaBulletExplosion.cs" />
+    <Compile Include="src\Babo.cs" />
+    <Compile Include="src\BaboBullet.cs" />
+    <Compile Include="src\BaboBulletExplosion.cs" />
+    <Compile Include="src\BigExplosion.cs" />
+    <Compile Include="src\BlackDebris.cs" />
+    <Compile Include="src\BlackPlayer.cs" />
+    <Compile Include="src\BossHouse.cs" />
+    <Compile Include="src\BossMushroom.cs" />
+    <Compile Include="src\BossRobot.cs" />
+    <Compile Include="src\BrokenAtField.cs" />
+    <Compile Include="src\Bullet.cs" />
+    <Compile Include="src\BulletList.cs" />
+    <Compile Include="src\Byaa.cs" />
+    <Compile Include="src\ByaaBullet.cs" />
+    <Compile Include="src\Debris.cs" />
+    <Compile Include="src\EggMachine.cs" />
+    <Compile Include="src\EggMachineBullet.cs" />
+    <Compile Include="src\EggMachineBulletExplosion.cs" />
+    <Compile Include="src\EndingInput.cs" />
+    <Compile Include="src\EndingScene.cs" />
+    <Compile Include="src\Enemy.cs" />
+    <Compile Include="src\ExitDoor.cs" />
+    <Compile Include="src\ExitDoorForBossStage.cs" />
+    <Compile Include="src\Father.cs" />
+    <Compile Include="src\FatherBullet.cs" />
+    <Compile Include="src\FatherGhost.cs" />
+    <Compile Include="src\FlameItem.cs" />
+    <Compile Include="src\GameImage.cs" />
+    <Compile Include="src\GameInput.cs" />
+    <Compile Include="src\GameMusic.cs" />
+    <Compile Include="src\GameScene.cs" />
+    <Compile Include="src\GameScene01.cs" />
+    <Compile Include="src\GameScene02.cs" />
+    <Compile Include="src\GameScene03.cs" />
+    <Compile Include="src\GameScene04.cs" />
+    <Compile Include="src\GameScene05.cs" />
+    <Compile Include="src\GameScene06.cs" />
+    <Compile Include="src\GameScene07.cs" />
+    <Compile Include="src\GameScene08.cs" />
+    <Compile Include="src\GameScene09.cs" />
+    <Compile Include="src\GameScene10.cs" />
+    <Compile Include="src\GameScene11.cs" />
+    <Compile Include="src\GameScene12.cs" />
+    <Compile Include="src\GameScene13.cs" />
+    <Compile Include="src\GameScene14.cs" />
+    <Compile Include="src\GameScene15.cs" />
+    <Compile Include="src\GameScene16.cs" />
+    <Compile Include="src\GameScene17.cs" />
+    <Compile Include="src\GameScene18.cs" />
+    <Compile Include="src\GameScene19.cs" />
+    <Compile Include="src\GameScene20.cs" />
+    <Compile Include="src\GameScene21.cs" />
+    <Compile Include="src\GameScene22.cs" />
+    <Compile Include="src\GameScene23.cs" />
+    <Compile Include="src\GameScene24.cs" />
+    <Compile Include="src\GameScene25.cs" />
+    <Compile Include="src\GameSceneForTitleScene.cs" />
+    <Compile Include="src\GameSound.cs" />
+    <Compile Include="src\GraphicsDevice.cs" />
+    <Compile Include="src\Hanabi.cs" />
+    <Compile Include="src\HealthItem.cs" />
+    <Compile Include="src\HealthItemExplosion.cs" />
+    <Compile Include="src\House.cs" />
+    <Compile Include="src\HouseBullet.cs" />
+    <Compile Include="src\InputDevice.cs" />
+    <Compile Include="src\Item.cs" />
+    <Compile Include="src\ItemEnemy.cs" />
+    <Compile Include="src\Kyoro.cs" />
+    <Compile Include="src\KyoroRocket.cs" />
+    <Compile Include="src\MachinegunItem.cs" />
+    <Compile Include="src\Mafia.cs" />
+    <Compile Include="src\Map.cs" />
+    <Compile Include="src\MiswGame2007Application.cs" />
+    <Compile Include="src\Mushroom.cs" />
+    <Compile Include="src\MushroomSpore.cs" />
+    <Compile Include="src\Norio.cs" />
+    <Compile Include="src\Nurunuru.cs" />
+    <Compile Include="src\Oyaji.cs" />
+    <Compile Include="src\OyajiThunder.cs" />
+    <Compile Include="src\Particle.cs" />
+    <Compile Include="src\ParticleList.cs" />
+    <Compile Include="src\Player.cs" />
+    <Compile Include="src\PlayerBullet.cs" />
+    <Compile Include="src\PlayerBullet2.cs" />
+    <Compile Include="src\PlayerBullet3.cs" />
+    <Compile Include="src\PlayerBulletExplosion.cs" />
+    <Compile Include="src\PlayerBulletExplosion2.cs" />
+    <Compile Include="src\PlayerFlame.cs" />
+    <Compile Include="src\PlayerFlameParticle.cs" />
+    <Compile Include="src\PlayerRocket.cs" />
+    <Compile Include="src\PlayerRocketTail.cs" />
+    <Compile Include="src\PlayerState.cs" />
+    <Compile Include="src\Program.cs" />
+    <Compile Include="src\Rain.cs" />
+    <Compile Include="src\Rectangle.cs" />
+    <Compile Include="src\Robot.cs" />
+    <Compile Include="src\RobotRocket.cs" />
+    <Compile Include="src\RocketItem.cs" />
+    <Compile Include="src\Settings.cs" />
+    <Compile Include="src\ShotgunItem.cs" />
+    <Compile Include="src\Skater.cs" />
+    <Compile Include="src\StageData.cs" />
+    <Compile Include="src\StageSelectInput.cs" />
+    <Compile Include="src\StageSelectScene.cs" />
+    <Compile Include="src\Starman.cs" />
+    <Compile Include="src\StarmanBullet.cs" />
+    <Compile Include="src\TestEnemy.cs" />
+    <Compile Include="src\Thing.cs" />
+    <Compile Include="src\ThingList.cs" />
+    <Compile Include="src\TitleInput.cs" />
+    <Compile Include="src\TitleScene.cs" />
+    <Compile Include="src\Vector.cs" />
+    <Compile Include="src\WeaponItemExplosion.cs" />
+    <Compile Include="src\Worm.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Yanesdk\Yanesdk.csproj">
+      <Project>{5AD10454-A0F0-44D4-AC45-83F84D88250E}</Project>
+      <Name>Yanesdk</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

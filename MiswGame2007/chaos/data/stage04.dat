@@ -1,0 +1,41 @@
+25
+50
+11111111111111111111111111111111111111111111111111
+1                                                1
+1                                                1
+1                                                1
+1                                                1
+1                                                1
+1              11111111111111111111              1
+1         !                            !         1
+1333333333                              4444444441
+1                                                1
+1                                                1
+1                                                1
+1         22222 !      !  !      ! 22222         1
+1                222222    222222                1
+1                                                1
+1         !                            !         1
+1333333333             2222             4444444441
+1                                                1
+1                                                1
+1        !             !  !             !        1
+1         2222222222222    2222222222222         1
+1                                                1
+1                                                1
+1                                                1
+11111111111111111111111111111111111111111111111111
+Player 3 25 Right
+ItemEnemy 6 5 Right Machinegun
+ItemEnemy 6 44 Left Machinegun
+House 11 20 Left
+House 11 30 Right
+ItemEnemy 14 5 Right Machinegun
+ItemEnemy 14 45 Left Machinegun
+Kyoro 18 13 Left
+Kyoro 18 36 Right
+House 18 18 Left
+House 18 31 Right
+ItemEnemy 22 2 Left Health
+ItemEnemy 22 47 Left Health
+ExitDoor 14 25

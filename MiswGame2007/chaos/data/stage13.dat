@@ -1,0 +1,180 @@
+60
+49
+9999999999999999999999999999999999999999999999999
+9                                               9
+c                                               9
+9                                               a
+9                                               9
+b          !                       !            9
+9           acabcacbcacbbbcaaaacbba             a
+9                                               9
+9                                               9
+9           !                     !             9
+aaaaaaaaaaaa                       cccccccccccccc
+bb                                             bb
+9             aaaa           cccc               9
+9                                               c
+b                   !    !                      9
+b                   cccccc                      c
+9     !       !                 !       !       9
+9      ccccccc                   bbbbbbb        a
+9                   !    !                      a
+a                   bbbbbb                      9
+c                                               9
+9           !  !                  !             9
+9            aa     !    !         aaaaaaaaaaaaaa
+9                   cccccc                     bb
+9                                               9
+9       !                                       9
+cccccccc            !    !                      9
+aa                  aaaaaa                      9
+9                               a               9
+9                                               9
+9                                               9
+9                       !       !               9
+9                        bbbbbbbbbbbbbbbbbbbbbbbb
+9           !       !                          cc
+cccccccccccccccccccc                            9
+aa                                              9
+9                    cc                         9
+9                                               9
+9                                               c
+c                    aaaaa                      c
+9                                               c
+9                          !      !             9
+9                           aaaaaaaaaaaaaaaaaaaaa
+a                  !     !                     aa
+9          !    !   bbbbb                       9
+9      !    cccc                                9
+ccccccc                                         9
+bb                                              9
+9                !    !                         9
+9        aaa     cccccc     !   !          !    9
+9                            aaa            aaaaa
+9                                              cc
+9       !    !                   !     !        9
+c        cccc                     bbbbb         9
+9                                         !     a
+a    !                                     cccccc
+aaaaa                                          cc
+9                                               9
+9                                               9
+9999999999999999999999999999999999999999999999999
+Player 57 23 Left
+ItemEnemy 57 47 Left Machinegun
+ItemEnemy 57 1 Right Machinegun
+ItemEnemy 40 40 Right Rocket
+ItemEnemy 32 5 Left Machinegun
+ItemEnemy 30 45 Left Flame 
+ItemEnemy 24 5 Right Rocket
+ItemEnemy 20 46 Left Rocket
+ItemEnemy 4 25 Right Machinegun
+ItemEnemy 4 19 Right Shotgun
+ItemEnemy 4 27 Left Flame
+Robot 34 43 Left
+Robot 26 3 Right
+Robot 24 42 Left
+Robot 14 43 Left
+Robot 2 3 Right
+Robot 2 43 Right
+Baaka 39 31 Left
+Baaka 39 31 Right
+Baaka 31 16 Left
+Baaka 31 16 Right
+Baaka 29 27 Left
+Baaka 29 27 Right
+Baaka 23 2 Right
+Baaka 19 37 Left
+Baaka 19 37 Right
+Baaka 14 10 Right
+Baaka 14 36 Left
+Baaka 7 3 Right
+Baaka 7 44 Left
+Baaka 3 25 Right
+Baaka 3 24 Left 
+House 54 3 Right
+House 53 45 Left
+House 47 20 Right
+House 44 5 Right
+House 43 15 Left
+House 42 23 Right
+House 40 31 Left
+House 32 17 Right
+House 30 28 Left
+House 25 24 Right
+House 21 23 Left
+House 17 24 Right
+House 13 23 Left
+House 8 11 Right
+House 8 40 Left
+Kyoro 51 12 Left
+Kyoro 51 37 Right
+Kyoro 48 30 Right
+Kyoro 48 47 Right
+Kyoro 44 4 Left
+Kyoro 40 31 Left
+Kyoro 40 32 Right
+Kyoro 32 17 Right
+Kyoro 32 17 Left
+Kyoro 30 27 Right
+Kyoro 30 27 Left
+Kyoro 20 14 Right
+Kyoro 20 44 Left
+Kyoro 20 45 Right
+Kyoro 15 10 Left
+Kyoro 15 10 Right
+Kyoro 15 37 Left
+Kyoro 15 37 Right
+Mushroom 58 5 Right Invisible
+Mushroom 58 7 Right Invisible
+Mushroom 58 10 Right Invisible
+Mushroom 58 13 Right Invisible
+Mushroom 58 35 Left Invisible
+Mushroom 58 37 Left Invisible
+Mushroom 58 40 Left Invisible
+Mushroom 58 44 Left Invisible
+Mushroom 55 1 Right Invisible
+Mushroom 54 47 Left Invisible
+Mushroom 49 30 Right Invisible
+Mushroom 48 10 Left Invisible
+Mushroom 41 32 Left Invisible
+Mushroom 41 33 Left Invisible
+Mushroom 41 37 Left Invisible
+Mushroom 41 38 Left Invisible
+Mushroom 38 24 Right Invisible
+Mushroom 35 21 Right Invisible
+Mushroom 33 11 Right Invisible
+Mushroom 33 12 Right Invisible
+Mushroom 33 16 Right Invisible
+Mushroom 33 17 Right Invisible
+Mushroom 31 30 Left Invisible
+Mushroom 31 29 Left Invisible
+Mushroom 31 35 Left Invisible
+Mushroom 31 36 Left Invisible
+Mushroom 27 32 Right Invisible
+Mushroom 26 21 Left Invisible
+Mushroom 26 24 Right Invisible
+Mushroom 22 21 Left Invisible
+Mushroom 22 24 Right Invisible
+Mushroom 18 21 Left Invisible
+Mushroom 18 24 Right Invisible
+Mushroom 16 7 Right Invisible
+Mushroom 16 13 Right Invisible
+Mushroom 16 33 Left Invisible
+Mushroom 16 39 Left Invisible
+Mushroom 14 21 Left Invisible
+Mushroom 14 24 Right Invisible
+Mushroom 11 17 Right Invisible
+Mushroom 11 29 Left Invisible
+Mushroom 9 5 Right Invisible
+Mushroom 9 8 Right Invisible
+Mushroom 9 11 Right Invisible
+Mushroom 9 36 Left Invisible
+Mushroom 9 40 Left Invisible
+Mushroom 9 43 Left Invisible
+Mushroom 5 14 Left Invisible
+Mushroom 5 17 Left Invisible
+Mushroom 5 22 Right Invisible
+Mushroom 5 27 Right Invisible
+Mushroom 5 33 Right Invisible
+ExitDoor 4 23

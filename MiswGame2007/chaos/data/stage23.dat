@@ -1,0 +1,173 @@
+70
+70
+1111111111111111111111111111111111111111111111111111111111111111111111
+1                                                                    1
+1     !  !                                                           1
+1    !    !                                                !       ! 1
+1   !  99  !                             o            !     ggggggg  1
+1     9999                                      o    ! !             1
+1    899999                                        o ! !             1
+1    999999               !  o       o        ! !     !   o          1
+1     9999      o      o ! !                   !                     1
+1      99           o    ! !     o ! !  o       !      o             1
+1                         ! o       o      o   o gggggg              1
+1            ! !      o  o    ! !      !    !  !                     1
+1             o  ! !           o gggggg    !    !                    1
+1         o       o                          88                      1
+1                                         ! 8888 !                   1
+1! !  o     o            !  !              888888                    1
+1 o     ! !             !    !             888888                    1
+1        o      o      !  99  !             8888                     1
+1    ! !                 9999                88                      1
+1   o !      o      o   999999                                       1
+1     o                 999999                                       1
+1  !   ! !o              9999                                        1
+1 ! !   o                 99                                         1
+1 ! !         o                                                      1
+1  o       o                                                         1
+1 !    o    ! !            ! !                                       1
+1   ! !      o      ! !   !   !                                      1
+1! ! o               !                                               1
+1 !      o                !   !                                      1
+1          ! !   o         ! !         !                             1
+1       !   o          o              ! !                            1
+1ggggggg  o          o       o        ! !                            1
+1               o        o    ! !      !                             1
+1       gg   ! ! o             o          ! !                        1
+1             o   !    !    o      o       !                         1
+1            o     gggg                 o                            1
+1                         o  ! !o           o    o                   1
+1                             o       o        ! !   o  ! !          1
+1         gg                       !o   ! !     o        !           1
+1                              gggg      o    o    ! !     ! !       1
+1                                       o       ! ! o    o  !        1
+1                                            o   !                   1
+1                                                o          o        1
+1                                                 ! ! o              1
+1                                      !  !        o       o         1
+1                                    !  99  !                 o  ! ! 1
+1                                      9999          o   o !      !  1
+1                                     999999              ! !        1
+1                                     999999           o  ! !o    o  1
+1                                      9999        ! !     o   ! !   1
+1                                       99          o           o    1
+1                                                       o     !      1
+1                                                  ! !         gggggg1
+1                                                     o    o         1
+1                                             o     !                1
+1                                 o                      o !  o      1
+1                                                 o ! !o  o          1
+1                                     ! !  o! ! o    o     ggg       1
+1                                      o ! ! !      o   o            1
+1                      o    ! !   o  o    o  o   o                   1
+1                            o                ! !                    1
+1                o     ! ! ! !                 o                     1
+1                       o   o   o  !         !    gg                 1
+1                  o      o  ! !    ggggggggg                        1
+1                      o      o                                      1
+1              o   ! !                                               1
+1                   o                                                1
+1                                                                    1
+1                                                                    1
+1111111111111111111111111111111111111111111111111111111111111111111111
+Player 67 2 Right
+ItemEnemy 2 65 Left Health
+ItemEnemy 7 52 Left Rocket
+ItemEnemy 28 4 Right Health
+ItemEnemy 49 65 Left Rocket
+ItemEnemy 60 42 Left Flame
+ItemEnemy 65 6 Left Rocket
+ItemEnemy 65 6 Left Rocket
+ItemEnemy 65 6 Left Rocket
+ItemEnemy 65 6 Left Rocket
+ItemEnemy 65 6 Left Rocket
+House 10 31 Left
+House 10 35 Left
+House 10 37 Left
+House 11 18 Left
+House 15 9 Left
+House 17 6 Right
+House 25 5 Right
+House 32 14 Right
+House 32 43 Right
+House 36 48 Right
+House 36 57 Right
+House 38 60 Right
+House 39 49 Right
+House 44 66 Left
+House 48 51 Left
+House 50 64 Left
+House 56 38 Left
+House 56 44 Left
+House 58 29 Left
+House 59 46 Left
+House 60 24 Left
+House 60 28 Left
+House 62 29 Left
+Kyoro 6 47 Left
+Kyoro 8 36 Left
+Kyoro 10 14 Left
+Kyoro 14 2 Right
+Kyoro 20 8 Left
+Kyoro 24 13 Right
+Kyoro 25 21 Right
+Kyoro 26 2 Right
+Kyoro 28 12 Right
+Kyoro 29 3 Right
+Kyoro 31 31 Right
+Kyoro 35 30 Right
+Kyoro 37 33 Right
+Kyoro 37 41 Right
+Kyoro 38 52 Left
+Kyoro 42 51 Left
+Kyoro 48 64 Left
+Kyoro 52 52 Left
+Kyoro 54 58 Left
+Kyoro 55 53 Left
+Kyoro 57 42 Left
+Kyoro 64 20 Left
+//Kyoro 4 4 Right
+Mushroom 4 5 Right Invisible
+Kyoro 3 5 Right
+Kyoro 2 6 Right
+Kyoro 3 8 Right
+Kyoro 4 9 Right
+//Kyoro 13 43 Left
+Kyoro 12 44 Left
+Kyoro 11 45 Left
+Kyoro 12 47 Left
+//Kyoro 13 48 Left
+Mushroom 14 43 Left Invisible
+Mushroom 13 44 Left Invisible
+Mushroom 12 45 Left Invisible
+Mushroom 12 46 Left Invisible
+Mushroom 13 47 Left Invisible
+Mushroom 14 48 Left Invisible
+Worm 14 43 Left
+Worm 14 48 Left
+BlackPlayer 15 26 Left Rocket
+Kyoro 17 24 Left
+Kyoro 16 25 Left
+//Kyoro 15 26 Left
+Kyoro 16 28 Left
+Kyoro 17 29 Left
+Kyoro 45 38 Right
+//Kyoro 44 39 Right
+//Kyoro 43 40 Right
+//Kyoro 44 42 Right
+Kyoro 45 43 Right
+Worm 44 40 Right
+Babo 4 53 Left
+Babo 7 25 Left
+Babo 21 3 Right
+Babo 29 39 Right
+Babo 47 58 Left
+//Mushroom 6 44 Left Invisible
+//Mushroom 8 44 Left Invisible
+//Mushroom 10 44 Left Invisible
+Baaka 5 50 Left
+Baaka 26 5 Right
+Baaka 30 20 Right
+Baaka 47 66 Left
+Baaka 58 39 Left
+ExitDoor 2 65

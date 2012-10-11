@@ -1,0 +1,41 @@
+25
+50
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+g                                                g
+g                                                g
+g                                                g
+g                                          ggggggg
+g    gggggg                            !  !      g
+g                                       gg       g
+g                  !          !       !          g
+ggggggggggggggggggg            ggggggg           g
+g                                                g
+g                       ggg                      g
+g                                                g
+g                                                g
+g     g    g          gggggggg                   g
+g     g    g                                     g
+ggggggggggggggggggg                              g
+g                              gggg              g
+g                                                g
+g                                     ggggg      g
+g                                                g
+g      !                                    !    g
+ggggggg             gg     gg                ggggg
+g                 ggggg   ggggg                  g
+g                ggggggggggggggg                 g
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+Player 2 8 Right
+House 13 4 Right
+House 13 8 Right
+House 21 23 Left
+House 21 24 Right
+House 21 25 Right
+Baaka 20 10 Right
+Kyoro 4 41 Left
+Kyoro 6 37 Left
+ItemEnemy 6 5 Left Machinegun
+ItemEnemy 6 8 Right Flame
+ItemEnemy 19 2 Right Shotgun
+ItemEnemy 19 45 Left Health
+ExitDoor 2 47

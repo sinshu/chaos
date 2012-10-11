@@ -1,0 +1,65 @@
+25
+100
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+g                                               ggg                                                g
+g                                                g                                                 g
+g                                                                                                  g
+g     !                    !                                           !                           g
+gggggg                 g    ggggggggggggggggggggggggggggggggggggggggggg                            g
+g                 g                 ggggggggggggggggggggggggggg                                    g
+g           g                    ggggggggggggggggggggggggggggggggg         ggg                     g
+g     !                                          g                                                 g
+gggggg          g                                g                                                 g
+g                                                g                   !                             g
+g     !    g                                     g                    gggggggggggggggggggggggggggggg
+gggggg                                           g                          gggggggggggggggggggggggg
+g                                                g               ggg             ggggggggggggggggggg
+g          !    !                                g                                   ggggggggggggggg
+g           gggg   !    !           !            g          !                                      g
+g                   gggg         !     ggggggggggggggggggggg    !                                  g
+g                          !      gggggggggggggggggggggggggggggg       !                           g
+g                       !   ggggggggggggggggggggggggggggggggggggggggggg   !                        g
+g                    !   ggggggggggggggggggggggggggggggggggggggggggggggggg   !                     g
+g                     ggggggggggggggggggggggggggggggggggggggggggggggggggggggg                      g
+g                                               ggg                                                g
+g      !                                       ggggg                                    !          g
+g       ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg          g
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+Player 22 3 Right
+Robot 8 42 Left
+Robot 3 90 Left
+House 15 34 Right
+House 16 31 Right
+House 17 25 Right
+House 18 23 Right
+House 15 62 Right
+House 16 68 Right
+House 17 72 Right
+House 18 75 Right
+Baaka 2 52 Right
+Baaka 2 60 Left
+Baaka 8 90 Left
+Baaka 13 21 Right
+Baaka 12 12 Right
+Baaka 2 40 Left
+Baaka 2 33 Right
+Kyoro 3 58 Right
+Kyoro 3 60 Right
+Kyoro 3 70 Left
+Kyoro 3 32 Right
+Kyoro 3 41 Right
+Kyoro 3 47 Left
+Kyoro 9 87 Left
+Kyoro 9 88 Left
+Kyoro 10 2 Right
+Kyoro 7 2 Right
+Kyoro 3 2 Right
+ItemEnemy 21 25 Left Machinegun
+ItemEnemy 21 18 Right Rocket
+ItemEnemy 21 12 Right Rocket
+ItemEnemy 21 20 Left Machinegun
+ItemEnemy 21 75 Left Shotgun
+ItemEnemy 21 68 Right Rocket
+ItemEnemy 21 62 Right Rocket
+ItemEnemy 21 70 Left Rocket
+ExitDoor 22 96

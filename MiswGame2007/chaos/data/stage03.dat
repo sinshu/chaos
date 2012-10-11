@@ -1,0 +1,40 @@
+26
+50
+11111111111111111111111111111111111111111111111111
+1                                                1
+1                                                1
+1                                                1
+1                                                1
+1                  222222222222                  1
+1        222222                    222222        1
+1                                                1
+1        !                              !        1
+133333333            !      !            444444441
+1                     222222                     1
+1                                                1
+1       !          !          !          !       1
+1        2222222222            2222222222        1
+1                                                1
+1                    !      !                    1
+1        !            222222            !        1
+133333333                                444444441
+1           !      !          !      !           1
+1            222222            222222            1
+1    !     !                          !     !    1
+1     22222          !      !          22222     1
+1                     222222                     1
+1                                                1
+1                                                1
+11111111111111111111111111111111111111111111111111
+Player 23 3 Right
+ItemEnemy 7 5 Right Machinegun
+ItemEnemy 7 45 Left Machinegun
+House 9 25 Left
+ItemEnemy 11 15 Left Machinegun
+House 11 12 Left
+House 11 38 Left
+ItemEnemy 11 35 Right Machinegun
+ItemEnemy 15 43 Left Machinegun
+ItemEnemy 15 7 Right Machinegun
+House 20 25 Left
+ExitDoor 3 25

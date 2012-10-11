@@ -1,0 +1,29 @@
+20
+42
+111111111111111111111111111111111111111111
+1                                        1
+1                                        1
+1                                        1
+1         !                    !         1
+1111111111                      1111111111
+1                                        1
+1                                        1
+1             22222    22222             1
+1                                        1
+1                                        1
+1                                        1
+1                  2222                  1
+1                                        1
+1                                        1
+1             22222    22222             1
+1                                        1
+1                                        1
+1                                        1
+111111111111111111111111111111111111111111
+Player 6 15 Right
+ItemEnemy 3 5 Right Machinegun
+ItemEnemy 3 37 Left Flame
+ItemEnemy 17 5 Right Rocket
+ItemEnemy 17 37 Left Shotgun
+Babo 17 20 Left
+ExitDoor 6 25
