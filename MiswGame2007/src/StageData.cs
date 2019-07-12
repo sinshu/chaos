@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Text.RegularExpressions;
 using Yanesdk.Ytl;
 using Yanesdk.System;
 
@@ -9,8 +10,6 @@ namespace MiswGame2007
 {
     public class StageData
     {
-        private static string[] TEST = { "\r\n" };
-
         string path;
         int numRows;
         int numCols;
@@ -25,7 +24,7 @@ namespace MiswGame2007
             int currentLine;
             try
             {
-                stageData = Encoding.ASCII.GetString(FileSys.Read(path)).Split(TEST, StringSplitOptions.None);
+                stageData = Regex.Split(Encoding.ASCII.GetString(FileSys.Read(path)), @"\r\n?|\n");
                 currentLine = 0;
             }
             catch
